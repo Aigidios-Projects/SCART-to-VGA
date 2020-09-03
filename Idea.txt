@@ -1,0 +1,11 @@
+# Circuit
+
+- Carry RGB to the VGA plug
+- Use GS4981 to get HSync and VSync from Composite Video (or C-Sync?)
+- DDC not needed?
+
+
+# PCB and Housing
+
+- Use a standard crappy 2 x SCART outlet as a base
+- Works on a 9V battery?
