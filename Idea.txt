@@ -1,6 +1,7 @@
 # Circuit
 
 - Carry RGB to the VGA plug
+- Carry sound to 3.5 jack
 - Use GS4981 to get HSync and VSync from Composite Video (or C-Sync?)
 - DDC not needed?
 
@@ -8,4 +9,4 @@
 # PCB and Housing
 
 - Use a standard crappy 2 x SCART outlet as a base
-- Works on a 9V battery?
+- Works on a 9V battery? Or with 12V from the scart?
